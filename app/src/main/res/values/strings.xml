@@ -2,5 +2,5 @@
     <string name="app_name">MyApp</string>
     <string name="email">Email Address</string>
     <string name="senha">Password</string>
-    <string name="su">Sing up</string>
+    <string name="su"><u>Sing up</u></string>
 </resources>
